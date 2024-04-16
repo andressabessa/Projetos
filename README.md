@@ -1,8 +1,6 @@
 <h1>Projetos e estudos</h1>
-  Projetos e estudos na área de qualidade 
-  
-  <details>
-   
+
+  <details>   
   <summary>
     <a>APIs REST</a>
   </summary>
@@ -11,6 +9,7 @@
   
   - [Conceitos de APIs REST](https://github.com/andressabessa/Introdu--o-a-APIs-REST)
 </details>
+
 <details>
   <summary>
     <a>Fundamentos de teste</a>
