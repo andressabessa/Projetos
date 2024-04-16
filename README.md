@@ -10,8 +10,7 @@
   <a name="APIs REST"></a>
   
   - [Conceitos de APIs REST](https://github.com/andressabessa/Introdu--o-a-APIs-REST)
-<details>
-
+</details>
 <details>
   <summary>
     <a>Fundamentos de teste</a>
